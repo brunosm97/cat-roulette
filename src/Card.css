@@ -1,0 +1,15 @@
+.card {
+    height: 480px;
+    width: 300px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+    font-size: 48px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 480px;
+}
+
+.verde {
+    background-color: greenyellow;
+}
